@@ -1,0 +1,11 @@
+C:\Users\Emmerson\source\repos\BotMarchesBotForWestMarches\BotMarchesBotForWestMarches\bin\Debug\netcoreapp2.1\BotMarchesBotForWestMarches.deps.json
+C:\Users\Emmerson\source\repos\BotMarchesBotForWestMarches\BotMarchesBotForWestMarches\bin\Debug\netcoreapp2.1\BotMarchesBotForWestMarches.runtimeconfig.json
+C:\Users\Emmerson\source\repos\BotMarchesBotForWestMarches\BotMarchesBotForWestMarches\bin\Debug\netcoreapp2.1\BotMarchesBotForWestMarches.runtimeconfig.dev.json
+C:\Users\Emmerson\source\repos\BotMarchesBotForWestMarches\BotMarchesBotForWestMarches\bin\Debug\netcoreapp2.1\BotMarchesBotForWestMarches.dll
+C:\Users\Emmerson\source\repos\BotMarchesBotForWestMarches\BotMarchesBotForWestMarches\obj\Debug\netcoreapp2.1\BotMarchesBotForWestMarches.csprojResolveAssemblyReference.cache
+C:\Users\Emmerson\source\repos\BotMarchesBotForWestMarches\BotMarchesBotForWestMarches\obj\Debug\netcoreapp2.1\BotMarchesBotForWestMarches.csproj.CoreCompileInputs.cache
+C:\Users\Emmerson\source\repos\BotMarchesBotForWestMarches\BotMarchesBotForWestMarches\obj\Debug\netcoreapp2.1\BotMarchesBotForWestMarches.AssemblyInfoInputs.cache
+C:\Users\Emmerson\source\repos\BotMarchesBotForWestMarches\BotMarchesBotForWestMarches\obj\Debug\netcoreapp2.1\BotMarchesBotForWestMarches.AssemblyInfo.cs
+C:\Users\Emmerson\source\repos\BotMarchesBotForWestMarches\BotMarchesBotForWestMarches\bin\Debug\netcoreapp2.1\BotMarchesBotForWestMarches.pdb
+C:\Users\Emmerson\source\repos\BotMarchesBotForWestMarches\BotMarchesBotForWestMarches\obj\Debug\netcoreapp2.1\BotMarchesBotForWestMarches.dll
+C:\Users\Emmerson\source\repos\BotMarchesBotForWestMarches\BotMarchesBotForWestMarches\obj\Debug\netcoreapp2.1\BotMarchesBotForWestMarches.pdb
